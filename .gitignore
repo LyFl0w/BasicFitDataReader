@@ -1,0 +1,4 @@
+.idea/
+target/
+src/main/resources/my-basic-fit-data.json
+dependency-reduced-pom.xml
